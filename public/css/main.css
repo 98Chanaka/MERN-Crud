@@ -1,0 +1,53 @@
+.mr-auto {
+    margin-right: auto;
+}
+
+.ml-5 {
+    margin-left:15px !important;
+}
+
+.mr-5 {
+    margin-right: 15px !important;
+}
+
+.vh-75 {
+    min-height: 75vh;
+}
+
+.bg-blue {
+    background-color: #c7ebff !important;
+}
+
+.font-weight-600 {
+    font-weight: 600 !important;
+}
+
+.font-weight-700 {
+    font-weight: 700 !important;
+}
+
+.mh-420 {
+    min-height: 420px;
+}
+
+.read-more-btn {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 15px;
+}
+
+.display-7 {
+    font-size: 2rem !important;
+}
+
+.text-black {
+    color: #000 !important;
+}
+
+.author-image {
+    object-fit: cover;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
